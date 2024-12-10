@@ -23,3 +23,5 @@ Future<void> launchGooglePlay(String packageName) async {
     throw Exception("Could not launch $url");
   }
 }
+
+
